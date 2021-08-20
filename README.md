@@ -32,4 +32,7 @@ Notre application Mediatek est découpée en 6 packages:
   * PersistantData: Ce package contient les classes permettant la communication avec la base de donnée.
 
 
+### Team 
 
+MOUHAMAD Zaid
+RODRIGUES Mathieu
