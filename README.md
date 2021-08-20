@@ -34,5 +34,5 @@ Notre application Mediatek est découpée en 6 packages:
 
 ### Team 
 
-MOUHAMAD Zaid
-RODRIGUES Mathieu
+* MOUHAMAD Zaid
+* RODRIGUES Mathieu
