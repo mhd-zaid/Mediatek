@@ -31,6 +31,11 @@ Notre application Mediatek est découpée en 6 packages:
 
   * PersistantData: Ce package contient les classes permettant la communication avec la base de donnée.
 
+### Quick start
+
+* Changer le chemin de la base de donnée dans le fichier persistantData/DBConnection.java ainsi que les variables user et pwd.
+* Demarer l'application avec TomCat en ajoutant l'extension /login dans l'url ( localhost:8080/Projet_JavaEE/login ).
+
 
 ### Team 
 
